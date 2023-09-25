@@ -1,5 +1,5 @@
 # huffman-coding
-This project implements Huffman encoding and decoding algorithms. It reads in a pre-processed frequency file which contains the frequencies of corresponding characters. It then builds a Huffman tree from a PriorityQueue. After that, the program reads in a compressed binary file, Compress.bin, and uses the Huffman tree to decrypt the information by using C++ bitset operation. The decrypted message is printed to stdout.
+This project implements Huffman encoding and decoding algorithms. It reads in a pre-processed frequency file, AsciiFrequenciesV3.txt, which contains the frequencies of corresponding characters. It then builds a Huffman tree from a PriorityQueue. After that, the program reads in a compressed binary file, Compress.bin, and uses the Huffman tree to decrypt the information by using C++ bitset operation. The decrypted message is printed to stdout.
 
 ![image](https://github.com/carab9/huffman-coding/blob/main/huffman_code1.png?raw=true)
 
