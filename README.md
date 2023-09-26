@@ -16,7 +16,7 @@ C++ and C++ libraries: iostream, fstream, vector, tuple, algorithm, iterator, re
 ## Technical Skills
 
 Huffman encoding and decoding algorithms using polymorphism (in building polymorphic hierarchy of the Huffman tree), priority queue, regular expressions (to parse freqency file), smart pointers, several of
-STL containers and C++ bitset (for bit level data operation), iterator, and algorithm. 
+STL containers and C++ bitset (for bit level data operation), iterator, and STL algorithm. 
 
 ## Results
 
